@@ -7,6 +7,9 @@ Analysis of factors that directly vary and the opposite variable
 - numpy==1.22.3
 - seaborn==0.11.2
 - matplotlib==3.5.2
+- flake8==5.0.4
+- pycodestyle==2.9.1
+- pycodestyle_magic==0.5
 
 ### Installation
 run with python3.*

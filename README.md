@@ -59,7 +59,8 @@ From the text, it can be concluded that the 3 marketing that generates the most 
 #### 1.media_type_Radio
 #### 2.media_type_TV
 #### 3.media_type_Product Attachment
-
+## Medium
+- [Medium](https://medium.com/@ninenatthanarong/factors-in-department-stores-and-shops-that-makes-good-sales-3b5cb6434891)
 ## Authors
 
 - [@NineNatthanarong](https://github.com/NineNatthanarong)

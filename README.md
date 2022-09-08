@@ -2,6 +2,19 @@
 
 Analysis of factors that directly vary and the opposite variable
 
+### Libraries used
+- pandas==1.4.3
+- numpy==1.22.3
+- seaborn==0.11.2
+- matplotlib==3.5.2
+
+### Installation
+run with python3.*
+
+`pip install -r requirement.txt`
+
+### Content
+
 Do you wonder why stores with customer analytics sell so much? And why would a salesperson sell exactly what they want? Because data, anyway, has a lot of hidden powers. If not used to benefit Okay, I'll show you.
 
 ![graph](https://github.com/NineNatthanarong/analysis-of-product-sales/blob/main/output.png)
@@ -59,12 +72,22 @@ From the text, it can be concluded that the 3 marketing that generates the most 
 #### 1.media_type_Radio
 #### 2.media_type_TV
 #### 3.media_type_Product Attachment
-## Medium
+### Project Motivation
+I'm searching for the data I need in Kaggle for analysis. I see marketing so I'm very interested in analyzing it. because I often go to the store So I wonder what factors make it sell well?
+### File Description
+**prediction.ipynb** -> jupyter notebook for data analysis
+
+**media prediction and its cost.csv** -> data shop from [Kaggle](https://www.kaggle.com/)
+
+**requirement.txt** -> require libraries to run
+### Medium
 - [Medium](https://medium.com/@ninenatthanarong/factors-in-department-stores-and-shops-that-makes-good-sales-3b5cb6434891)
-## Authors
+### Authors
 
 - [@NineNatthanarong](https://github.com/NineNatthanarong)
-
-## License
+### Acknowledgements
+- dataset reference
+    - [https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart](https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart)
+### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
